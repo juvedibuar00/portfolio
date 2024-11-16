@@ -1,0 +1,55 @@
+/* style.css */
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Seção Hero */
+  .hero {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
+  
+  /* Seção de Portfólio */
+  .portfolio {
+    background-color: #f8f9fa;
+  }
+  
+  .portfolio .card {
+    border: none;
+  }
+  
+  .portfolio .card img {
+    object-fit: cover;
+    height: 200px;
+  }
+  
+  .portfolio h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Seção Contato */
+  .contato {
+    background-color: #f1f1f1;
+  }
+  
+  .contato h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* Formulário */
+  .form-label {
+    font-weight: bold;
+  }
+  
